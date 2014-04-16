@@ -23,6 +23,9 @@ class Member {
         this.workNumber = workNumber;
         this.description = description;
     }
-    
+    public void()
+    {
+	system.out.println("pipi is a good boy!");
+    }    
     
 }
