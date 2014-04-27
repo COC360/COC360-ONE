@@ -33,4 +33,9 @@ class Member {
         system.out.println("xixi is testing the file");
     }
 
+    public moreTest()
+    {
+        system.out.println();
+    }
+
 }
