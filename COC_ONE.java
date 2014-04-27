@@ -25,7 +25,12 @@ class Member {
     }
     public void()
     {
-	system.out.println("pipi is a good boy!");
+	    system.out.println("pipi is a good boy!");
     }    
-    
+
+    public makeTest()
+    {
+        system.out.println("xixi is testing the file");
+    }
+
 }
